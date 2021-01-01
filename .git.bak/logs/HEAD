@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 7500dd112e4ee3f851e397ea9fe7ac702417e127 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793703143 +0500	commit (initial): chore: import upstream open-source source snapshot
+7500dd112e4ee3f851e397ea9fe7ac702417e127 e624cdabcf765e565c9c76d788f073765a6651a2 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793704352 +0500	commit: fix(installer): honor custom AppFlowy installation directory
+e624cdabcf765e565c9c76d788f073765a6651a2 d8c95b13dd892becc37c181f7d06d25f04fe899a Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793704352 +0500	commit: docs(development): document source setup and restore upstream license notices
+d8c95b13dd892becc37c181f7d06d25f04fe899a cab1f9658051016dd6b34546a9e275f01224ac15 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793763991 +0500	commit: Final commit
+cab1f9658051016dd6b34546a9e275f01224ac15 cab1f9658051016dd6b34546a9e275f01224ac15 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793766680 +0500	checkout: moving from main to main
